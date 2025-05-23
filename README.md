@@ -17,4 +17,5 @@ After following the install process above, simply launch the "start.py" (or "sta
 If you find any bugs please contact me. (dont confuse bugs with the lack of a feature, I only just wrote the barely working version so you cant even write capital letters yet...)
 
 ## Development News
-next version adding general fixes like being able to write capital letters, an indicator for your current writing spot.
+### Version V1.1:
+Added capital letters (toggle by pressing shift cuz fuck caps lock), added text location indicator that blinks so you know where youre typing.
