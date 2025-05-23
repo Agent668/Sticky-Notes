@@ -8,7 +8,7 @@ Sticky Notes is a simple program I am working on. It is made in python using the
 - choose between 2 color modes
 
 ## How to install
-After downloading the zip, extract it and IF you DON'T HAVE python and/or pygame(THIS IS REQUIRED) installed(or dont know if you do), open the "Installers" folder and launch the python installer. After python is installed, I have made a quick batch file you can simply launch named "install_pygame" to install the pygame library.
+After downloading the ZIP, extract it and IF you DON'T HAVE python and/or pygame(THIS IS REQUIRED) installed(or dont know if you do), go to this link and download python and install it: "https://www.python.org/downloads/" then open the "Installers" folder after python is installed, I have made a quick batch file you can simply launch named "install_pygame" to install the pygame library.
 
 ## How to use
 After following the install process above, simply launch the "start.py" (or "start" if you dont have file name extensions). If you encounter any problems launching, make sure you followed all the steps in the install guide. *also dont close the cmd window cuz it will kill the program
